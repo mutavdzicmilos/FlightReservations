@@ -1,6 +1,6 @@
 <?php
 
-    include("Sesija.php");
+    include("init.php");
  ?>
 
 <!DOCTYPE html>
@@ -18,6 +18,8 @@
 <link href="assets/js/source/jquery.fancybox.css" rel="stylesheet" />
 <link href="assets/css/animations.min.css" rel="stylesheet" />
 <link href="assets/css/style-solid-black.css" rel="stylesheet" />
+
+<link rel="shortcut icon" href="avion.png">
 
 </head>
 <body data-spy="scroll" data-target="#menu-section">
@@ -48,6 +50,11 @@
         </div>
       </div>
 </section>
+
+<?php
+    include("footer.php");
+
+ ?>
 
 
 
