@@ -52,6 +52,9 @@
                 A330-200 koji se od 23. juna koristi za letove ka Njujorku.
                 Do 15. oktobra 2017 prevezeno je 10 miliona putnika, dobre 4 godine nakon osnovanja kompanije.
 </i>
+		      <button class="btn btn-custom-three " id = "prikazi" onclick = "slika() ">Klikni za prikaz mape aerodroma</button>
+								
+                <iframe id="iframe1" src="" width="560" height="315" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
               </p>
               <script>
 								function slika() {
@@ -66,11 +69,12 @@
 									document.getElementById("prikazi").style.visibility = "hidden";
 								}
 							</script>
-                            <div class="col-lg-6 about-top-right" id = "konkaktDesno">
+                            <!-- <div class="col-lg-6 about-top-right" id = "konkaktDesno">
 								<button class="btn btn-custom-three " id = "prikazi" onclick = "slika() ">Klikni za prikaz mape aerodroma</button>
 								
                 <iframe id="iframe1" src="" width="560" height="315" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
                             </div>
+				-->
 
 
 
