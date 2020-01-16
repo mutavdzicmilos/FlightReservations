@@ -69,17 +69,7 @@
 									document.getElementById("prikazi").style.visibility = "hidden";
 								}
 							</script>
-                            <!-- <div class="col-lg-6 about-top-right" id = "konkaktDesno">
-								<button class="btn btn-custom-three " id = "prikazi" onclick = "slika() ">Klikni za prikaz mape aerodroma</button>
-								
-                <iframe id="iframe1" src="" width="560" height="315" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-                            </div>
-				-->
-
-
-
-
-            </div>
+        </div>
           </div>
         </div>
       </div>
